@@ -1,0 +1,6 @@
+name: FakeBlocks
+version: 1.0
+main: me.jishunamatata.fakeblocks.FakeBlocks
+api-version: 1.16
+load: STARTUP
+depend: [ProtocolLib]
